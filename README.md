@@ -1,7 +1,5 @@
 # World Organization for Medical Services (WOMS) - React Website
 
-![WOMS Logo](public/logo512.png)
-
 Welcome to the GitHub repository for the World Organization for Medical Services (WOMS) website, built with React. This project aims to provide an efficient and effective online platform for doctors and medical professionals to access professional and administrative support, manage clinics, and stay informed about the latest advancements in healthcare.
 
 ## Table of Contents
